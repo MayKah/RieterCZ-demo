@@ -11,5 +11,6 @@ Image included from an image store folder
 
 .. figure:: img/screenshot-control-panel.png
    :width: 50%
+   :height: 50%
 
    An overview of the admin control panel.
