@@ -11,7 +11,7 @@
 Check out :jira:`199` for information on the :toy:`jump-rope`.
 There is a fix in our :unit-test:`assert-jump-rope-length`.
 
-.. literalinclude:: ascii-encode.rb
+.. literalinclude:: literalIncludes/ascii-encode.rb
    :language: ruby
    :emphasize-lines: 2,3-5
    :lines: 1-6
