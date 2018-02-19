@@ -16,6 +16,9 @@ There is a fix in our :unit-test:`assert-jump-rope-length`.
 
 This is how you point to the reference on top of this page, :ref:`reference-target-name`
 
+Table inserted as a csv
+-------
+
 .. csv-table:: Frozen Delights!
    :header: "Treat", "Quantity", "Description"
    :widths: 15, 10, 30
