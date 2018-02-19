@@ -1,7 +1,3 @@
----
-title: intro
----   
-
 .. _reference-target-name::
 
 This is the target for a ref at the bottom of the page.
@@ -25,4 +21,4 @@ There is a fix in our :unit-test:`assert-jump-rope-length`.
    :lines: 1-6
 
 
-This is how you point to the reference on top of this page, :ref:`reference-target-name`
+This is how you point to the reference on top of this page, :ref:`_reference-target-name`
