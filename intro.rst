@@ -3,7 +3,7 @@
 
    Proceed with caution!
 
-.. figure:: img/screenshot-control-panel.jpg
+.. figure:: img/screenshot-control-panel.png
    :width: 50%
 
    An overview of the admin control panel.
