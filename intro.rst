@@ -19,7 +19,7 @@ This is how you point to the reference on top of this page, :ref:`reference-targ
 Table inserted as a csv
 -------
 
-.. csv-table:: Frozen Delights!
+.. csv-table:: Frozen Delights
    :header: "Treat", "Quantity", "Description"
    :widths: 15, 10, 30
 
